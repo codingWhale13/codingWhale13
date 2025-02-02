@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently a master student in AI, Data Science and Machine Learning at Aalto University
+- 🌱 I’m currently writing my master thesis on multi-task reinforcement learning
+- ⚡ Fun fact: I'm not actually a whale
+
 <!--
 **codingWhale13/codingWhale13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
